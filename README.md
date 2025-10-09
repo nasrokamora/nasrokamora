@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nasreddine AB</h1>
-<h3 align="center">I'm Nasreddine AB from Algeria, a Front-end Developer and Full-stack Developer, specialized in building web applications using technologies like Next.js and React.js for the front-end, and Node.js and Express.js and NestJs for the back-end. I work to provide innovative and outstanding user experiences by designing and developing attractive and seamless user interfaces, in addition to paying attention to the finer details and applying best practices in my work. You can find me here to help you achieve your technical ideas and aspirations!</h3>
+<h3 align="center">I'm Nasreddine AB from Algeria, a Front-end Developer and Full-stack Developer, specialized in building web applications using technologies like Next.js and React.js for the front-end, and Node.js and Express.js and Nest.js for the back-end. I work to provide innovative and outstanding user experiences by designing and developing attractive and seamless user interfaces, in addition to paying attention to the finer details and applying best practices in my work. You can find me here to help you achieve your technical ideas and aspirations!</h3>
 <img align="right" alt="Coding" src="https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=4VIhALqwWdXJLw&pid=ImgRaw&r=0&PC=EMMX01" width="400"> 
 
 - 🌱 I’m currently learning **Nest Js** 

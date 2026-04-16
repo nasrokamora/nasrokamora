@@ -1,5 +1,3 @@
-هذا هو Readme الخاص بي
-
 <h1 align="center">Nasreddine Abdellouche – Full Stack Developer</h1>  
 <h3 align="center">  
 Hi there! 👋    

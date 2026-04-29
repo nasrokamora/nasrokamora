@@ -98,7 +98,7 @@ I believe in clarity, scalability, and developer experience — writing code tha
 
 💼 LinkedIn: Nasreddine AB
 
-📧 Email: nasreddine-ab@outlook.com | nas_dev@outlook.com | nanim2@outlook.fr
+📧 Email: nasreddine-ab@outlook.com | nas_dev@outlook.com | nas_dev2@outlook.com
 
 
 
